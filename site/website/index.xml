@@ -12,8 +12,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2022-10-14T18:13:30.884Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-10-14T18:13:30.884Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-10-28T20:51:28.003Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-10-28T20:51:28.003Z</lastModifiedDate_dt>
 	<title_t>Editorial</title_t>
 	<hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
 	<hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
@@ -82,8 +82,9 @@
 	<features_title_t>Erat lacinia</features_title_t>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
-	<webdav_o item-list="true">	<item datasource="webdavRepo">	<key>/remote-assets/webdav/webdav-default/Shared/test-webdav-file.doc</key>
-	<value>/remote-assets/webdav/webdav-default/Shared/test-webdav-file.doc</value>
+	<webdav_o item-list="true">	<item datasource="webdavRepo">	<key>/remote-assets/webdav/webdav-default/Shared/test-webdav-file-tc181.doc</key>
+	<value>test-webdav-file-tc181.doc</value>
 	<fileType_smv>doc</fileType_smv>
+	<include>/remote-assets/webdav/webdav-default/Shared/test-webdav-file-tc181.doc</include>
 	</item></webdav_o>
 </page>
